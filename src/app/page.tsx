@@ -66,7 +66,7 @@ export default function Home() {
             포켓몬 소개
           </a>
           <a
-            href="#"
+            href="/dogam"
             className="px-5 py-2 text-sm font-semibold rounded-full text-slate-600 hover:text-blue-600 hover:bg-blue-50/50 transition-all duration-300"
           >
             포켓몬 도감
@@ -120,7 +120,7 @@ export default function Home() {
               포켓몬 소개
             </a>
             <a
-              href="#"
+              href="/dogam"
               onClick={() => setMobileMenuOpen(false)}
               className="px-4 py-3 text-base font-bold rounded-xl text-slate-700 hover:bg-slate-50 transition-colors"
             >
